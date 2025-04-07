@@ -10,6 +10,6 @@
     <a href="https://fantasy.premierleague.com" target="_blank" rel="noopener noreferrer">Fantasy premier League</a> <br>
     <a href="pages/about.html" target="_blank" rel="noopener noreferrer">About</a><br>
     <img src="https://www.theodinproject.com/mstile-310x310.png"><br>
-    <img src="../images/kk.gif.jpg" width="50" height="50" alt="life">
+    <img src="./images/kk.gif.jpg" width="50" height="50" alt="life">
 </body>
 </html>
